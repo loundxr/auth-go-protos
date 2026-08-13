@@ -1,4 +1,4 @@
-module protos
+module github.com/loundxr/auth-go-protos
 
 go 1.26.2
 
